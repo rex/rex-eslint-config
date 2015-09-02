@@ -1,0 +1,21 @@
+{
+  "name": "rex-eslint-config",
+  "version": "0.0.1",
+  "description": "ESLint configuration for packages in the rex-* npm ecosystem",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rex/rex-eslint-config.git"
+  },
+  "keywords": [
+    "rex",
+    "eslint"
+  ],
+  "author": "Pierce Moore <me@prex.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rex/rex-eslint-config/issues"
+  },
+  "homepage": "https://github.com/rex/rex-eslint-config#readme"
+}
