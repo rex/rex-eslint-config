@@ -227,6 +227,12 @@
     spaced-comment:
       - 2
       - always
+      -
+        exceptions:
+          - /
+          - +
+          - "#"
+          - -
     strict:
       - 2
       - never
